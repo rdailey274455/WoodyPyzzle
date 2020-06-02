@@ -1,3 +1,3 @@
 # WoodyPyzzle
 
-No-import command line block puzzle game, based on the app and written in python for fun.
+Simple command line block puzzle game writtin in python for fun, based on the app (by someone else).
